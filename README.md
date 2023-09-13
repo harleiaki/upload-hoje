@@ -13,3 +13,5 @@ https://www.prisma.io/docs/getting-started/quickstart
 https://github.com/fastify/fastify-multipart
 
 https://openai.com/
+
+https://ffmpegwasm.netlify.app/
