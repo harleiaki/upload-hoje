@@ -21,7 +21,7 @@ POST http://localhost:3333/videos/13a9c720-7ddb-4b10-a657-9ce3bdc7e10d/transcrip
 Content-Type: application/json
 
 {
-  "prompt": "clean architecture, ddd"
+  "prompt": "apresenta, trabalho"
 }
 
 ###
