@@ -40,7 +40,7 @@ export function VideoInputForm(props: VideoInputFormProps) {
   }
 
   async function convertVideoToAudio(video: File) {
-    console.log('Convert started.')
+    console.log('Convertendo.')
 
     const ffmpeg = await getFFmpeg()
 
